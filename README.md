@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/670a04e1-fd80-4bb3-8f56-c7dcf1ba254f)
+
+
 Hackintosh EFI folder for Asus Prime B560M-A, i5-11600, AMD Radeon RX 6800.
  
 Serial number is replaced with XXXXXXXXXX string, everything other is the same.
@@ -16,4 +19,4 @@ ACPI's generated with OpCore-Simplify
 Tool-master used to dump usb.json (later used to make UTBMap.kext), other kext's  downloaded from https://dortania.github.io/builds
 
 P.S: Not working: 
-I have Intel Wi-Fi AX-200 card, provided drivers curently don't work under macOS 15.5 Sequoia
+I have Intel Wi-Fi AX-200 card, provided drivers curently don't work under macOS 15.4 Sequoia
