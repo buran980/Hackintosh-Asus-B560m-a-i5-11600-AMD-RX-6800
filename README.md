@@ -18,5 +18,8 @@ Note:
 ACPI's generated with OpCore-Simplify
 Tool-master used to dump usb.json (later used to make UTBMap.kext), other kext's  downloaded from https://dortania.github.io/builds
 
-P.S: Not working: 
-I have Intel Wi-Fi AX-200 card, provided drivers curently don't work under macOS 15.4 Sequoia
+
+P.S: Everything is working except:
+Intel Wi-Fi AX-200 card, provided drivers curently don't work under macOS 15.4 Sequoia
+
+ 
